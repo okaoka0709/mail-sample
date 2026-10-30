@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mail-01", "folder": "inbox", "from": { "name": "Leafletter 編輯部", "email": "hello@leafletter.example" }, "to": "xia@example.com",
+    "subject": "給日常多一點靈感：歡迎加入 Leafletter", "date": "2026-10-30T09:13:00+08:00", "read": true, "starred": true, "banner": "Leafletter",
+    "body": "Hi 小夏，歡迎來到 Leafletter！\n\n很開心能在這裡遇見你。每週五，我們會寄來一封關於設計、工作與生活的小信，陪你整理一週的靈感。\n\n從一個小小的改變開始\n\n好的點子，不一定出現在忙碌的時候。有時候只是早晨的一杯咖啡、回家路上的一張海報，或是與朋友的一段對話。留一點空白，讓靈感有地方停下來。\n\n這週，試試這三件事：\n\n01  記下一個讓你眼睛一亮的畫面。\n02  把桌面上一件不需要的東西收起來。\n03  寄一封信，給一位好久不見的朋友。\n\n你的第一份靈感清單\n\n我們準備了一份簡單的每週筆記，放在信件附件裡。你可以把想到的事寫下來，慢慢找到屬於自己的節奏。\n\n謝謝你，願意讓我們成為日常的一小部分。\n下週五，信箱見。\n\nCheers,\nLeafletter 編輯部\n\n────────\n這是一封虛構的 Demo 電子報。所有內容與附件均供介面展示使用。",
+    "attachments": [{ "name": "每週靈感筆記.txt", "url": "./attachments/weekly-notes.txt", "size": "文字檔 · Demo" }]
+  },
+  {
+    "id": "mail-02", "folder": "inbox", "from": { "name": "陳以安", "email": "ian@studio.example" }, "to": "xia@example.com", "subject": "下週的設計討論，帶著你的好點子來！", "date": "2026-10-30T08:45:00+08:00", "read": false, "starred": false,
+    "body": "小夏，早安！\n\n我們下週一上午 10:00 在三樓討論室聊聊新版網站的方向，預計約 45 分鐘。\n\n這次想討論：\n• 首頁的資訊層級與導覽\n• 手機版的閱讀體驗\n• 經典與清新兩種視覺方向\n\n不用準備完整提案，帶幾張喜歡的參考就好。如果時間需要調整，再回信跟我說。\n\n週末愉快！\n以安", "attachments": []
+  },
+  {
+    "id": "mail-03", "folder": "inbox", "from": { "name": "森日生活", "email": "orders@forestday.example" }, "to": "xia@example.com", "subject": "您的訂單已出貨 #FD2026102908", "date": "2026-10-29T16:32:00+08:00", "read": false, "starred": true,
+    "body": "親愛的小夏您好：\n\n謝謝您選擇森日生活。您的訂單已經完成包裝，正在前往您身邊的路上！\n\n訂單編號：FD2026102908\n商品：日常陶瓷杯（霧白）× 1\n金額：NT$ 480\n配送方式：宅配\n預計到貨：出貨後 2–3 個工作天\n\n希望這件小物，能陪伴您度過許多舒服的早晨。\n\n森日生活 客服團隊\n\n（此為虛構訂單，無實際交易。）", "attachments": []
+  },
+  {
+    "id": "mail-04", "folder": "inbox", "from": { "name": "Mia Chen", "email": "mia@designnotes.example" }, "to": "xia@example.com", "subject": "A few things worth saving this week", "date": "2026-10-29T11:20:00+08:00", "read": true, "starred": false,
+    "body": "Hey Xia,\n\nI collected a few ideas for our next project and thought you might like them.\n\nA quieter interface\nLess visual noise gives the important things room to breathe. A clear hierarchy and a little extra spacing can make a big difference.\n\nDetails that feel familiar\nA simple envelope icon, a useful preview, a familiar reply button. Small things help people feel at home.\n\nLet's explore these directions together next week. No rush — good ideas take a little time.\n\nHave a lovely afternoon,\nMia", "attachments": []
+  },
+  {
+    "id": "mail-05", "folder": "inbox", "from": { "name": "周子晴", "email": "sunny@studio.example" }, "to": "xia@example.com", "subject": "十月份專案進度整理與下一步", "date": "2026-10-28T15:05:00+08:00", "read": false, "starred": false,
+    "body": "大家好，\n\n附上本月專案的進度整理，讓大家在會議前先有個概念。\n\n已完成\n✓ 使用者訪談與需求整理\n✓ 桌面版資訊架構\n✓ 兩套視覺風格雛型\n\n接下來\n1. 製作可互動的前端展示\n2. 補上信件資料與操作流程\n3. 確認手機與平板的呈現\n\n有需要補充的地方，歡迎直接回信。附件是文字版摘要，供大家參考。\n\n謝謝大家！\n子晴", "attachments": [{ "name": "十月專案摘要.txt", "url": "./attachments/project-summary.txt", "size": "文字檔 · Demo" }]
+  },
+  {
+    "id": "mail-06", "folder": "inbox", "from": { "name": "慢慢書店", "email": "books@slowbooks.example" }, "to": "xia@example.com", "subject": "週末讀點什麼？三本關於生活的選書", "date": "2026-10-27T10:00:00+08:00", "read": true, "starred": false,
+    "body": "嗨，小夏：\n\n天氣轉涼了，適合找一個靠窗的位置，翻開一本想讀很久的書。\n\n這週店員的選書主題是「把生活過慢一點」：\n\n《留白的練習》\n從整理空間開始，練習照顧自己的注意力。\n\n《散步的時候》\n走過熟悉的街區，也可能看見全新的風景。\n\n《日常的小小光亮》\n收集那些看似微不足道，卻讓人微笑的瞬間。\n\n週末有空的話，來店裡坐坐吧。\n\n慢慢書店\n\n（書名與店家皆為示範內容。）", "attachments": []
+  },
+  {
+    "id": "mail-07", "folder": "inbox", "from": { "name": "Cloudspace", "email": "security@cloudspace.example" }, "to": "xia@example.com", "subject": "帳戶通知：您已成功啟用雙重驗證", "date": "2026-10-26T09:28:00+08:00", "read": true, "starred": false,
+    "body": "小夏您好：\n\n您的示範帳戶已成功啟用雙重驗證。\n\n帳戶：xia@example.com\n設定時間：2026/10/26 09:28\n\n下次登入時，系統將提示您輸入驗證碼。\n\n這是介面展示用的虛構通知，沒有變更任何真實帳戶設定。\n\nCloudspace 團隊", "attachments": []
+  },
+  {
+    "id": "mail-08", "folder": "inbox", "from": { "name": "王品涵", "email": "pinhan@example.com" }, "to": "xia@example.com", "subject": "好久不見，找一天喝杯咖啡？", "date": "2026-10-25T14:16:00+08:00", "read": false, "starred": true,
+    "body": "小夏，\n\n整理照片的時候看到我們上次出去玩的合照，才發現已經好幾個月沒碰面了！\n\n最近過得怎麼樣？我在附近發現一家很安靜的咖啡店，覺得你應該會喜歡。下週六下午有空的話，一起坐坐吧。\n\n不急，等你回信 :)\n\n品涵", "attachments": []
+  },
+  {
+    "id": "mail-09", "folder": "drafts", "from": { "name": "林小夏", "email": "xia@example.com" }, "to": "ian@studio.example", "subject": "Re: 下週的設計討論", "date": "2026-10-30T09:00:00+08:00", "read": true, "starred": false,
+    "body": "以安你好，\n\n週一上午的時間沒問題！我會帶一些郵件介面的參考，想一起討論兩套風格的差異。\n\n另外關於手機版，我在想是否可以…", "attachments": []
+  },
+  {
+    "id": "mail-10", "folder": "sent", "from": { "name": "林小夏", "email": "xia@example.com" }, "to": "sunny@studio.example", "subject": "Re: 前端 Demo 需求確認", "date": "2026-10-28T16:30:00+08:00", "read": true, "starred": false,
+    "body": "子晴你好，\n\n收到，這次會以純前端的方式製作展示，使用 JSON 作為示範信件來源。\n\n風格切換、資料夾與基本郵件操作都會包含在內，寄送的部分則以模擬流程呈現。\n\n完成初版後再請大家一起看看！\n\n小夏", "attachments": []
+  },
+  {
+    "id": "mail-11", "folder": "spam", "from": { "name": "促銷訊息 Demo", "email": "offer@promo.example" }, "to": "xia@example.com", "subject": "限時優惠通知（垃圾郵件範例）", "date": "2026-10-24T08:00:00+08:00", "read": false, "starred": false,
+    "body": "這封信件用於展示垃圾郵件資料夾。\n\n內容為虛構，沒有任何外部連結或實際優惠。您可以試著將它移至垃圾桶，再從垃圾桶還原。", "attachments": []
+  },
+  {
+    "id": "mail-12", "folder": "trash", "previousFolder": "inbox", "from": { "name": "活動通知", "email": "events@studio.example" }, "to": "xia@example.com", "subject": "已結束：九月份的午間分享會", "date": "2026-09-25T12:00:00+08:00", "read": true, "starred": false,
+    "body": "大家好，\n\n謝謝參與九月份的午間分享會，希望大家都帶走了一些有趣的想法。\n\n這是一封已移至垃圾桶的示範信件。使用工具列的「還原信件」，就能把它放回收件匣。\n\n活動小組", "attachments": []
+  }
+]
